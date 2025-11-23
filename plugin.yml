@@ -1,0 +1,8 @@
+name: WelcomeMessage
+api: 5.0.0
+version: 1.0.0
+main: Amirxd\WelcomeMsg\WelcomeMessage
+author: Amirxd
+description: Advanced Welcome Message Plugin
+
+

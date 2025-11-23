@@ -1,0 +1,26 @@
+# WelcomeMessage Configuration
+
+# Welcome Message Settings
+welcome-message:
+  enabled: true
+  message: "§6✨ Welcome §e{player} §6to the server!"
+  broadcast-to-all: true
+
+# Title Settings
+title:
+  enabled: true
+  title: "§bWelcome {player}!"
+  subtitle: "§7Enjoy your stay!"
+  fadein: 20
+  stay: 60
+  fadeout: 20
+
+# Effects
+effects:
+  sound: true
+  particles: true
+  particle-type: "Heart"  # HappyVillager, Heart, Flame, Lava, Portal, Enderman
+  particle-count: 12
+
+
+
