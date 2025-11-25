@@ -10,7 +10,6 @@ use pocketmine\utils\TextFormat as TF;
 class WelcomeMessage extends PluginBase
 {
     use SingletonTrait;
-    public string $tag = TF::GRAY . "[" . TF::GREEN . "Welcome " . TF::YELLOW . "Message" . TF::GRAY . "] ";
 
     public function onEnable(): void
     {
